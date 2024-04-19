@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Ficus",
+      "image": "https://eureka-farms.com/cdn/shop/files/FicusMoclameBraidedSSR.jpg?v=1692667442&width=1500",
+      "price": "195.00",
+      "id": 8
     }
   ]
 }
